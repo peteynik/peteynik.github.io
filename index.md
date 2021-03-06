@@ -1,5 +1,7 @@
 ---
 layout: default
+title: peteynik.com
+description: Lost and Found
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
