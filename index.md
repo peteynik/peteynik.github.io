@@ -1,6 +1,5 @@
 ---
 layout: default
-title: peteynik.com
 description: Lost and Found
 ---
 
